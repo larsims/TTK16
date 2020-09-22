@@ -1,0 +1,6 @@
+# Data for Example 2 (MPC) in AMPL format
+
+param a := 0.8104 ;
+param b := 0.2076 ;
+param N := 4 ;
+param xinit := 0.4884 ;
